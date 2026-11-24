@@ -1,4 +1,4 @@
-# DEF CAMP CTF Final — Cutitari
+# DEF CAMP CTF Final — Cutitari Write Up
 
 **Category:** Web  
 **Vulnerability:** Race Condition  
